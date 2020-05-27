@@ -1,0 +1,28 @@
+C:\Users\Asier\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Asier\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Asier\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Asier\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Asier\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\Asier\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Asier\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\Asier\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Asier\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Tonet\Desktop\T3P1AntonioMC\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Tonet\Desktop\T3P1AntonioMC\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Tonet\Desktop\T3P1AntonioMC\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Tonet\Desktop\T3P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Tonet\Desktop\T3P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\Tonet\Desktop\T3P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Tonet\Desktop\T3P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\Tonet\Desktop\T3P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Tonet\Desktop\T3P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+E:\Prácticas 1DAW 19-20\Entrega Practica 1. Formateo de fuentes\Antonio Moreno Cantó_117782_assignsubmission_file_\P1AntonioMC\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+E:\Prácticas 1DAW 19-20\Entrega Practica 1. Formateo de fuentes\Antonio Moreno Cantó_117782_assignsubmission_file_\P1AntonioMC\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+E:\Prácticas 1DAW 19-20\Entrega Practica 1. Formateo de fuentes\Antonio Moreno Cantó_117782_assignsubmission_file_\P1AntonioMC\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+E:\Prácticas 1DAW 19-20\Entrega Practica 1. Formateo de fuentes\Antonio Moreno Cantó_117782_assignsubmission_file_\P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+E:\Prácticas 1DAW 19-20\Entrega Practica 1. Formateo de fuentes\Antonio Moreno Cantó_117782_assignsubmission_file_\P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+E:\Prácticas 1DAW 19-20\Entrega Practica 1. Formateo de fuentes\Antonio Moreno Cantó_117782_assignsubmission_file_\P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+E:\Prácticas 1DAW 19-20\Entrega Practica 1. Formateo de fuentes\Antonio Moreno Cantó_117782_assignsubmission_file_\P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+E:\Prácticas 1DAW 19-20\Entrega Practica 1. Formateo de fuentes\Antonio Moreno Cantó_117782_assignsubmission_file_\P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+E:\Prácticas 1DAW 19-20\Entrega Practica 1. Formateo de fuentes\Antonio Moreno Cantó_117782_assignsubmission_file_\P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+E:\Prácticas 1DAW 19-20\Entrega Practica 1. Formateo de fuentes\Antonio Moreno Cantó_117782_assignsubmission_file_\P1AntonioMC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
